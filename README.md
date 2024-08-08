@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @DMDMHansika
+<h1 align="center">Hi 👋, I'm Mayashi Hansika</h1>
 <h3 align="center">A passionate Software Developer from Sri Lanka</h3>
 
 ---
 <p align="center"><img src="https://media.istockphoto.com/id/1145791509/vector/young-woman-playing-video-games-at-night.jpg?s=612x612&w=0&k=20&c=yrgMU87pDBup7xLUGtqOZtZO38noKWSPgKrNE1ekkSE=" height="200" width="200" /></a></p><br><br>
 
-- 📫 How to reach me **mayashihansika@gmail.com**
+- 📫 How to reach me **mayashihans48@gmail.com**
 
 - ⚡ Fun fact **Call me as Mashi**
 
